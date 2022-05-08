@@ -1,0 +1,3 @@
+Home Page
+
+On my Home Page I want to have a picture that welcomes any vistors but will be unique at the same time. Currently I'm thinking of drawing it, or at least sketching out something that might have my name and objects related to what I want to show in my portfilo. It could also just have things I like or from shows I've watched. The other idea I had was using an animation from what we learn with JavaScript art.

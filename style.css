@@ -1,0 +1,42 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: antiquewhite;
+}
+h1 {
+ color:darkgreen;
+ margin-right: 100px;
+ margin-left: 100px;
+ padding: 40px;
+ border-style: dashed;
+    border-width: 5px;
+    border-color: red;
+ text-transform: uppercase;
+}
+/*target all h4 headers, and the inhereted <em> text (inhereted: inside those h4 headers)
+So, it would be all the <em> tags inside the h4 tags*/
+h4, p, h4 > em{
+    background-color: coral;
+    color: darkgreen;
+}
+/*Change the paragraph so they're blue*/
+
+p{
+    font-size: 12px;
+}
+
+#intro{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.spotlight > * {
+    background-color: #fefe22;
+}
+/* TO DO LIST(for homework) add rules (properties and values) for - 
+1. link
+2. visited link
+3. link when you hover over it
+4. class selectors
+5. ID selectors 
+6. Don't Forget your Lab 12/Part 3 preparations!*/
